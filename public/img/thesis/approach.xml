@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T06:31:48.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3XbcYBKS7xG8BJJMSHsW" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T07:44:55.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kw2ihS-fP01_8KJ9dJyc" version="13.10.8" type="github">
   <diagram id="5L2Be4Ge2-lzxPpOeVez" name="Page-1">
-    <mxGraphModel dx="2148" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
         <mxCell id="TrBc-I1A1NQMuRwrATod-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="20" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-51" value="doubleclick.net" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-50" vertex="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-51" value="&lt;span style=&quot;background-color: rgb(255 , 179 , 102)&quot;&gt;doubleclick.net&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-50" vertex="1">
           <mxGeometry width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TrBc-I1A1NQMuRwrATod-52" value="&lt;span&gt;タイムセールで、400円台のAmazon限定・睡眠改善薬や...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-50" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="TrBc-I1A1NQMuRwrATod-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="150" width="460" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-65" value="&lt;span&gt;doubleclick.net&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-64" vertex="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-65" value="&lt;span style=&quot;background-color: rgb(255 , 179 , 102)&quot;&gt;doubleclick.net&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-64" vertex="1">
           <mxGeometry width="143" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TrBc-I1A1NQMuRwrATod-66" value="&lt;span&gt;ランチに温かいスープやご飯を手軽に持ち歩けるサーモ...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-64" vertex="1">
@@ -315,6 +315,12 @@
         </mxCell>
         <mxCell id="TrBc-I1A1NQMuRwrATod-107" value="発行元：doubleclick.net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1765" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dHXjPIZJgvSjnPVzWLXf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontColor=none;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1750" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dHXjPIZJgvSjnPVzWLXf-2" value="発行元：&lt;span style=&quot;background-color: rgb(255 , 179 , 102)&quot;&gt;doubleclick.net&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1772.5" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

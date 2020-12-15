@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T10:49:54.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QvvGvPxHIYPn5n0TnRSS" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T06:31:48.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3XbcYBKS7xG8BJJMSHsW" version="13.10.8" type="github">
   <diagram id="5L2Be4Ge2-lzxPpOeVez" name="Page-1">
     <mxGraphModel dx="2148" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TrBc-I1A1NQMuRwrATod-108" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontColor=none;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-108" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontColor=none;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1742.5" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sfblKOOVScVPYLMxwzdn-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6F6F6;" parent="1" vertex="1">
@@ -123,8 +123,8 @@
         <mxCell id="sfblKOOVScVPYLMxwzdn-43" value="タイムセールで、400円台のAmazon限定・睡眠改..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="655" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sfblKOOVScVPYLMxwzdn-44" value="閲覧履歴2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="695" width="80" height="20" as="geometry" />
+        <mxCell id="sfblKOOVScVPYLMxwzdn-44" value="&lt;span style=&quot;text-align: left&quot;&gt;眠そうな人にはカフェイン多め、人を見て淹れるス...&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="695" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sfblKOOVScVPYLMxwzdn-45" value="ランチに温かいスープやご飯を手軽に持ち歩けるサ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="735" width="290" height="20" as="geometry" />
@@ -163,157 +163,157 @@
         <mxCell id="sfblKOOVScVPYLMxwzdn-60" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="505" y="520" width="140" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-18" value="ユーザの閲覧履歴と&lt;br&gt;含まれているサードパーティクッキー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-18" value="ユーザの閲覧履歴と&lt;br&gt;含まれているサードパーティクッキー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="1490" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-45" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-45" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="1540" width="460" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-47" value="クッキーの発行ドメイン" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-46">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-47" value="クッキーの発行ドメイン" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-46" vertex="1">
           <mxGeometry width="143" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-48" value="ページタイトル" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-46">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-48" value="ページタイトル" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-46" vertex="1">
           <mxGeometry x="143" width="317" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="20" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-51" value="doubleclick.net" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-50">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-51" value="doubleclick.net" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-50" vertex="1">
           <mxGeometry width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-52" value="&lt;span&gt;タイムセールで、400円台のAmazon限定・睡眠改善薬や...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-50">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-52" value="&lt;span&gt;タイムセールで、400円台のAmazon限定・睡眠改善薬や...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-50" vertex="1">
           <mxGeometry x="143" width="317" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="50" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-55" value="flashtalking.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-54">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-55" value="flashtalking.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-54" vertex="1">
           <mxGeometry width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-56" value="&lt;div&gt;良質な眠りは｢睡眠1分前の仕込み｣で決まる&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-54">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-56" value="&lt;div&gt;良質な眠りは｢睡眠1分前の仕込み｣で決まる&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-54" vertex="1">
           <mxGeometry x="143" width="317" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="80" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-59" value="crwdcntrl.net" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-58">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-59" value="crwdcntrl.net" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-58" vertex="1">
           <mxGeometry width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-60" value="眠そうな人にはカフェイン多め、人を見て淹れるスマー..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-58">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-60" value="眠そうな人にはカフェイン多め、人を見て淹れるスマー..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-58" vertex="1">
           <mxGeometry x="143" width="317" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="110" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-61">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-62" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-61" vertex="1">
           <mxGeometry width="143" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-61">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-61" vertex="1">
           <mxGeometry x="143" width="317" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-45">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-45" vertex="1">
           <mxGeometry y="150" width="460" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-65" value="&lt;span&gt;doubleclick.net&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-64">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-65" value="&lt;span&gt;doubleclick.net&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-64" vertex="1">
           <mxGeometry width="143" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-66" value="&lt;span&gt;ランチに温かいスープやご飯を手軽に持ち歩けるサーモ...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-64">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-66" value="&lt;span&gt;ランチに温かいスープやご飯を手軽に持ち歩けるサーモ...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-64" vertex="1">
           <mxGeometry x="143" width="317" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-77" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-77" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="475" y="1660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-78" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-78" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="240" y="1660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-79" value="ユーザの閲覧履歴と，&lt;br&gt;含まれているサードパーティクッキー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-79" value="ユーザの閲覧履歴と，&lt;br&gt;含まれているサードパーティクッキー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1930" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-80" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-80" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="1980" width="440" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-82" value="クッキー" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-81">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-82" value="クッキー" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-81" vertex="1">
           <mxGeometry width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-83" value="ページタイトル" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-81">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-83" value="ページタイトル" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-81" vertex="1">
           <mxGeometry x="115" width="325" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-84" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-84" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry y="20" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-85" value="クッキー A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-84">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-85" value="クッキー A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-84" vertex="1">
           <mxGeometry width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-86" value="&lt;span&gt;タイムセールで、400円台のAmazon限定・睡眠改善薬や...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-84">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-86" value="&lt;span&gt;タイムセールで、400円台のAmazon限定・睡眠改善薬や...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-84" vertex="1">
           <mxGeometry x="115" width="325" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-87" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-87" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry y="50" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-88" value="&lt;span&gt;クッキー B&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-87">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-88" value="&lt;span&gt;クッキー B&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-87" vertex="1">
           <mxGeometry width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-89" value="&lt;span&gt;良質な眠りは｢睡眠1分前の仕込み｣で決まる&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-87">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-89" value="&lt;span&gt;良質な眠りは｢睡眠1分前の仕込み｣で決まる&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-87" vertex="1">
           <mxGeometry x="115" width="325" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-90" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry y="80" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-91" value="&lt;span&gt;クッキー C&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-90">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-91" value="&lt;span&gt;クッキー C&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-90" vertex="1">
           <mxGeometry width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-92" value="&lt;span&gt;眠そうな人にはカフェイン多め、人を見て淹れるスマー...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-90">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-92" value="&lt;span&gt;眠そうな人にはカフェイン多め、人を見て淹れるスマー...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-90" vertex="1">
           <mxGeometry x="115" width="325" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-93" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-93" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry y="110" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-93">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-93" vertex="1">
           <mxGeometry width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-93">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-93" vertex="1">
           <mxGeometry x="115" width="325" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-80">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TrBc-I1A1NQMuRwrATod-80" vertex="1">
           <mxGeometry y="150" width="440" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-97" value="&lt;span&gt;クッキー A&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-96">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-97" value="&lt;span&gt;クッキー A&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="TrBc-I1A1NQMuRwrATod-96" vertex="1">
           <mxGeometry width="115" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-98" value="&lt;span&gt;ランチに温かいスープやご飯を手軽に持ち歩けるサーモス...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="TrBc-I1A1NQMuRwrATod-96">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-98" value="&lt;span&gt;ランチに温かいスープやご飯を手軽に持ち歩けるサーモス...&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="TrBc-I1A1NQMuRwrATod-96" vertex="1">
           <mxGeometry x="115" width="325" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-99" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-99" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="455" y="2100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-100" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-100" value="&lt;font style=&quot;font-size: 9px&quot;&gt;・・・&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="240" y="2100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-101" value="&lt;h1 class=&quot;Ff($ff-primary) M(0) C(engadgetBlack) Fw(400) Fz(36px) Mt(10px) Fz(48px)! Lh(55px) Fz(24px)!--sm Lh(n)--sm&quot; style=&quot;margin: 10px 0px 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgb(11 , 12 , 13) ; font-weight: 400 ; line-height: 55px&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-101" value="&lt;h1 class=&quot;Ff($ff-primary) M(0) C(engadgetBlack) Fw(400) Fz(36px) Mt(10px) Fz(48px)! Lh(55px) Fz(24px)!--sm Lh(n)--sm&quot; style=&quot;margin: 10px 0px 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgb(11 , 12 , 13) ; font-weight: 400 ; line-height: 55px&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="1735" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-102" value="&lt;h1 style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font color=&quot;#1d1a9e&quot; style=&quot;font-size: 14px&quot;&gt;5分でマスター！ビジネスメールの書き方...&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;システムスクリーンショットで上書き&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-102" value="&lt;h1 style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font color=&quot;#1d1a9e&quot; style=&quot;font-size: 14px&quot;&gt;5分でマスター！ビジネスメールの書き方...&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;システムスクリーンショットで上書き&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="1540" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-103" value="1) サードパーティクッキーを抽出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-103" value="1) サードパーティクッキーを抽出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1840" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-104" value="　2) ユーザの履歴情報と照合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-104" value="　2) ユーザの履歴情報と照合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="1840" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-105" value="　3) 発行ドメインが一致するページ情報を出力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-105" value="　3) 発行ドメインが一致するページ情報を出力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="1840" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-106" value="&lt;h1 style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font color=&quot;#1d1a9e&quot; style=&quot;font-size: 14px&quot;&gt;5分でマスター！ビジネスメールの書き方...&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;システムスクリーンショットで上書き&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-106" value="&lt;h1 style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font color=&quot;#1d1a9e&quot; style=&quot;font-size: 14px&quot;&gt;5分でマスター！ビジネスメールの書き方...&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;システムスクリーンショットで上書き&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="1540" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TrBc-I1A1NQMuRwrATod-107" value="発行元：doubleclick.net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="TrBc-I1A1NQMuRwrATod-107" value="発行元：doubleclick.net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1765" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
